@@ -1,0 +1,2 @@
+# PREDICTIVE-MODELING-FOR-FUTURE-TERM-ASSOCIATIONS-IN-SCIENTIFIC-LITERATURE-USING-ADVANCED-NLP-TECH
+This project uses NLP and ML to automate literature reviews, predict future term associations, and uncover latent relationships in scientific texts. Using transformer-based embeddings like BERT, it tracks term evolution over time and detects weak signals, offering valuable insights and accelerating knowledge discovery.
